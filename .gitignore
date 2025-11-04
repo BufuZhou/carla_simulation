@@ -1,3 +1,15 @@
+*.o
+*.a
+*.log
+*.pyc
+build
+devel
+log
+install
+cpp_pubsub
+.catkin_tools
+.cache
+
 # Prerequisites
 *.d
 
